@@ -1,0 +1,1 @@
+Project that uses BFS and DFS to solve a maze.
